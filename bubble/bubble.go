@@ -1,11 +1,10 @@
 package main
+import "fmt"
 
 func main() {
 	var arr = []int{7, 53, 24, 45, 21, 5, 78, 43}
 	bubbleSort(arr)
-	for i := 0; i < len(arr); i++ {
-		println(arr[i])
-	}
+    fmt.Println(arr)
 }
 
 func bubbleSort(arr []int) []int {
