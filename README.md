@@ -5,3 +5,4 @@
 - 希尔排序 shell
 - 并归排序 merge
 - 快速排序 quick
+- 并归排序 heap
