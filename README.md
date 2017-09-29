@@ -4,3 +4,4 @@
 - 插入排序 insertion
 - 希尔排序 shell
 - 并归排序 merge
+- 快速排序 quick
