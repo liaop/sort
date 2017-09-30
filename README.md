@@ -6,3 +6,4 @@
 - 并归排序 merge
 - 快速排序 quick
 - 并归排序 heap
+- 计数排序 counting
